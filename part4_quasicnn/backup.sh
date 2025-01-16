@@ -1,0 +1,1 @@
+timestamp=$(date +"%Y%m%d_%H%M%S") && cd .. && zip -r project_$timestamp.zip part4_quasicnn && cd part4_quasicnn
