@@ -26,4 +26,5 @@ Part 5: ResNet Adaptation
 This part adapts the quasipolynomial network concept to a ResNet architecture. It includes:
 Modifying the ResNet layers to incorporate quasipolynomial operations.
 Training and evaluating the adapted ResNet model on standard datasets.
-Comparing the performance with the vanilla ResNet.
+Comparing the performance with the vanilla ResNet. (A vanilla ResNet refers to the original ResNet architecture as proposed in the 2015 paper)
+
